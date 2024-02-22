@@ -1,5 +1,16 @@
 # Prometheus
 
+<p align="center">
+  <kbd>
+    <img src="https://github.com/tin-ka/Prometheus/blob/main/logo.png">
+  </kbd>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/tin-ka/Prometheus">
+  <img src="https://img.shields.io/github/stars/tin-ka/Prometheus">
+
+</p>
 
 ## Table of Contents
 
