@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/tin-ka/Prometheus">
   <img src="https://img.shields.io/github/stars/tin-ka/Prometheus">
+  <img src="https://img.shields.io/github/forks/tin-ka/Prometheus">
 
 </p>
 
