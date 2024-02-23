@@ -80,6 +80,7 @@
 - XMR Miner.
 - ETC Miner.
 - Steals Installed Software List.
+- Steals WhatsApp Session Files.
 - Uninstall Program.
 - RAT Mode.
 - Speak Text.
