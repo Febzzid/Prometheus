@@ -41,7 +41,6 @@
 
 - GUI Builder.
 - Runs On Startup.
-- Melt Stub.
 - Fake Error.
 - EXE Binder.
 - File Pumper.
@@ -74,6 +73,7 @@
 - UAC Bypass.
 - Custom Icon.
 - Disables Windows Defender.
+- Melt Stub.
 - Anti-VM.
 - Blocks AV-Related Sites.
 - Steals Riot Session.
