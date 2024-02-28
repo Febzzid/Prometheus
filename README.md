@@ -123,9 +123,8 @@
 3. [Download Prometheus](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
 5. Navigate to the **Prometheus** folder and double click *Builder.bat* file.
-6. Enter the license key "free" twice in the command line that opens.
-7. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
+6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 
 ## VIP Version
 
-If you want to access all Prometheus features, you can buy a VIP license key from me on [Telegram](https://t.me/PrometheusSupport).
+If you want to get the password for the VIP version of Prometheus, you can buy it from me in [Telegram](https://t.me/PrometheusSupport).
