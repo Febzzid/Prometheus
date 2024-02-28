@@ -127,4 +127,6 @@
 
 ## VIP Version
 
+[Download VIP](https://raw.githubusercontent.com/tin-ka/Prometheus/main/PrometheusVIP.zip)
+
 If you want to get the password for the VIP version of Prometheus, you can buy it from me in [Telegram](https://t.me/PrometheusSupport). 
