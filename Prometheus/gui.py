@@ -163,9 +163,6 @@ class BuilderOptionsFrame(ctk.CTkFrame):
 		self.startupCheckboxControl = ctk.CTkCheckBox(self, text= "Put On Startup", font= self.font, height= 38, hover_color= "#4D4D4D", text_color= "#FF8000", text_color_disabled= "#FF8000", variable= self.startupVar)
 		self.startupCheckboxControl.grid(row= 3, column= 0, sticky= "w", padx= 20)
 
-		self.meltCheckboxControl = ctk.CTkCheckBox(self, text= "Melt Stub", font= self.font, height= 38, hover_color= "#4D4D4D", text_color= "#FF8000", text_color_disabled= "#FF8000", variable= self.meltVar)
-		self.meltCheckboxControl.grid(row= 4, column= 0, sticky= "w", padx= 20)
-
 		self.pumpStubCheckboxControl = ctk.CTkCheckBox(self, text= "Pump Stub", font= self.font, height= 38, hover_color= "#4D4D4D", text_color= "#FF8000", text_color_disabled= "#FF8000", command= self.pumpStub_Event, variable= self.pumpStubVar)
 		self.pumpStubCheckboxControl.grid(row= 5, column= 0, sticky= "w", padx= 20)
 
@@ -219,9 +216,6 @@ class BuilderOptionsFrame(ctk.CTkFrame):
 
 		self.bindExeButtonControl = ctk.CTkButton(self, text= "Bind Executable", height= 38, font= self.font, fg_color= "green", hover_color= "light green", text_color_disabled= "#FF8000", command= self.bindExeButtonControl_Callback)
 		self.bindExeButtonControl.grid(row= 2, column= 5, sticky= "ew", padx= (0, 15))
-
-		self.selectIconButtonControl = ctk.CTkButton(self, text= "Select Icon", height= 38, font= self.font, fg_color= "green", hover_color= "light green", text_color_disabled= "#FF8000", command= self.selectIconButtonControl_Callback)
-		self.selectIconButtonControl.grid(row= 3, column= 5, sticky= "ew", padx= (0, 15))
 
 		self.buildModeButtonControl = ctk.CTkButton(self, text= "Output: EXE File", height= 38, font= self.font, fg_color= "green", hover_color= "light green", text_color_disabled= "#FF8000", command= self.buildModeButtonControl_Callback)
 		self.buildModeButtonControl.grid(row= 4, column= 5, sticky= "ew", padx= (0, 15))
