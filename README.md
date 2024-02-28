@@ -40,7 +40,6 @@
 ### FREE Features
 
 - GUI Builder.
-- Custom Icon.
 - Runs On Startup.
 - Melt Stub.
 - Fake Error.
@@ -73,6 +72,7 @@
 ### VIP Features
 
 - UAC Bypass.
+- Custom Icon.
 - Disables Windows Defender.
 - Anti-VM.
 - Blocks AV-Related Sites.
