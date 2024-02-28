@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/github/stars/tin-ka/Prometheus">
   <img src="https://img.shields.io/github/forks/tin-ka/Prometheus">
     <br>
-</p>
-
+  
     <p align="center">🔥 [Download](https://raw.githubusercontent.com/tin-ka/Prometheus/main/Prometheus.zip) 🔥
   <br>
   💎 [Contact in Telegram](https://t.me/PrometheusSupport) 💎
