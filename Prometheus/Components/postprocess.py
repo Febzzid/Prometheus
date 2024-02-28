@@ -65,7 +65,7 @@ def RenameEntryPoint(path: str, entryPoint: str):
         file.write(data)
 
 if __name__ == "__main__":
-    builtFile = os.path.join("dist", "Built.exe")
+    builtFile = os.path.join("dist", "based.exe")
     if os.path.isfile(builtFile):
         RemoveMetaData(builtFile)
         AddCertificate(builtFile)
