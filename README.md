@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://github.com/tin-ka/Prometheus/blob/main/window.png"/>
 </p>
-### FREE Features
+FREE Features
 
 - ✅ GUI Builder.
 - ✅ Runs On Startup.
