@@ -78,6 +78,7 @@ FREE Features
 - 💎 Disables Windows Defender.
 - 💎 Melt Stub.
 - 💎 Anti-VM.
+- 💎 Recording Audio from a Microphone.
 - 💎 Blocks AV-Related Sites.
 - 💎 Steals Riot Session.
 - 💎 Crypt Stealer.
